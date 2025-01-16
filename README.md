@@ -36,3 +36,7 @@ This Python program processes QML files and converts them to a format compatible
 ## Notes
 - Only basic unsupported elements are replaced; complex dynamic behaviors must be handled manually.
 - Ensure the output directory is writable and sufficient permissions are set.
+
+## License
+- MIT License
+  
